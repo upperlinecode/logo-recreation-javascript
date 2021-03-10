@@ -19,7 +19,7 @@ We've just seen how primitive shapes and colors can be combined to create more i
 
 This activity is more self-guided than what we've done so far. We've given you the basic p5 project template in sketch.js, but it's on you and your partner to choose a logo and try to recreate it.
 
-Keep in mind the basic tools we've learned: ellipse, rect, line, triangle, fill, and stroke. Referrence the ![documentation](https://p5js.org/reference/) if you need to remind yourself how anything works.
+Keep in mind the basic tools we've learned: ellipse, rect, line, triangle, fill, and stroke. Referrence the [documentation](https://p5js.org/reference/) if you need to remind yourself how anything works.
 
 Some of the logos in the image below are more complicated than others, so don't feel that you have to get them exactly right – it's great to just get the basic shape and color to match. (For example, consider using straight lines for the Spotify logo, or some clever set of triangles to approximate the Twitter bird.)
 
