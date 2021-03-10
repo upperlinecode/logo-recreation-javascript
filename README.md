@@ -23,9 +23,7 @@ Keep in mind the basic tools we've learned: ellipse, rect, line, triangle, fill,
 
 Some of the logos in the image below are more complicated than others, so don't feel that you have to get them exactly right – it's great to just get the basic shape and color to match. (For example, consider using straight lines for the Spotify logo, or some clever set of triangles to approximate the Twitter bird.)
 
-If you don't know where to start, consider Target, Microsoft, or HSBC.
-
-Once you get one logo to your liking, go ahead and try another!
+If you don't know where to start, consider Target, Microsoft, or HSBC. And once you get one logo to your liking, go ahead and try another!
 
 ![Logos](https://yesimadesigner.com/wp-content/uploads/2019/10/color-logos-famous-logo-designs.png?x99157&x99157&x99157&x99157&x78792&x86947&x86947&x86947)
 (I'd like to make a better image that includes more doable logos. This is something I found online.)
