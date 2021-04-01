@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-This lab will give you more practice with shapes and colors in p5. Choose your favorite logos from the image below and recreate them one at a time in script.js.
+This activity will give you more practice with shapes and colors in p5. Choose your favorite logos from the image below and recreate them one at a time in script.js.
 
 ## Contents
 
@@ -21,9 +21,8 @@ This activity is more self-guided than what we've done so far. We've given you t
 
 Keep in mind the basic tools we've learned: ellipse, rect, line, triangle, fill, and stroke. Reference the [documentation](https://p5js.org/reference/) if you need to remind yourself how anything works.
 
-Some of the logos in the image below are more complicated than others, so don't feel that you have to get them exactly right – it's great to just get the basic shape and color to match. (For example, consider using straight lines for the Spotify logo, or some clever set of triangles to approximate the Twitter bird.)
+Some of the logos in the image below are more complicated than others, so don't feel that you have to get them exactly right – it's great to just get the basic shape and color to match.
 
-If you don't know where to start, consider Target, Microsoft, or HSBC. And once you get one logo to your liking, go ahead and try another!
+If you don't know where to start, consider any of the logos along the bottom row.
 
-![Logos](https://yesimadesigner.com/wp-content/uploads/2019/10/color-logos-famous-logo-designs.png?x99157&x99157&x99157&x99157&x78792&x86947&x86947&x86947)
-(I'd like to make a better image that includes more doable logos. This is something I found online.)
+![Logos](https://cdn.glitch.com/20b95798-6f01-45c6-8fc7-a706c95d44a9%2Flogos.jpg?v=1512863797321)
