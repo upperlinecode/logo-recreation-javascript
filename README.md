@@ -1,6 +1,6 @@
 # Logo Challenge
 
-[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/mad-libs-javascript)](https://repl.it/github/upperlinecode/mad-libs-javascript)
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/logo-recreation-javascript)](https://repl.it/github/upperlinecode/logo-recreation-javascript)
 
 ## TL;DR
 
